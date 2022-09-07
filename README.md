@@ -119,7 +119,7 @@ At this point, the `gh-pages` npm package is installed on your computer and the 
     {
       "name": "my-app",
       "version": "0.1.0",
-    + "homepage": "https://gitname.github.io/react-gh-pages",
+    + "homepage": "https://m1dkn1gh7.github.io/my-website",
       "private": true,
     ```
 At this point, the React app's `package.json` file includes a property named `homepage`.
@@ -187,7 +187,7 @@ At this point, the local repository has a "remote" whose URL points to the GitHu
 
 **That's it!** The React app has been deployed to GitHub Pages! :rocket:
     
-At this point, the React app is accessible to anyone who visits the `homepage` URL you specified in Step 4. For example, the React app I deployed is accessible at https://gitname.github.io/react-gh-pages.
+At this point, the React app is accessible to anyone who visits the `homepage` URL you specified in Step 4. For example, the React app I deployed is accessible at https://m1dkn1gh7.github.io/my-website.
 
 ### 8. (Optional) Store the React app's _source code_ on GitHub
 
